@@ -1,2 +1,1 @@
-# Astron2
-What?
+See the real readme
